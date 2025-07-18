@@ -80,3 +80,8 @@
    26  ls
    27  git history
    28  history
+      git remote add origin https://github.com/siddheshdhumatkar423/github-for-devops-workshop.git
+   36  git remote -v
+   37  git push -u origin master
+   38  git remote -v
+   39  git push origin master
