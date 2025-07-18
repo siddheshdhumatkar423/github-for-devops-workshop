@@ -1,0 +1,82 @@
+ ls -a
+    2  ls -l
+    3  rm testing.py
+    4  ls -l
+    5  git init
+    6  ls -a
+    7  git status
+    8  ls
+    9  nano testing.py
+   10  ls
+   11  git status
+   12  git add testing.py
+   13  ls
+   14  git status
+   15  git rm --cached testing.py
+   16  git staus
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "testing files
+   21  git commit -m "testing files" 
+   22  git status
+   23  rm testing.py
+   24  git status
+   25  git restore testing.py
+   26  ls
+   27  git history
+   28  history ls -a
+    2  ls -l
+    3  rm testing.py
+    4  ls -l
+    5  git init
+    6  ls -a
+    7  git status
+    8  ls
+    9  nano testing.py
+   10  ls
+   11  git status
+   12  git add testing.py
+   13  ls
+   14  git status
+   15  git rm --cached testing.py
+   16  git staus
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "testing files
+   21  git commit -m "testing files" 
+   22  git status
+   23  rm testing.py
+   24  git status
+   25  git restore testing.py
+   26  ls
+   27  git history
+   28  history ls -a
+    2  ls -l
+    3  rm testing.py
+    4  ls -l
+    5  git init
+    6  ls -a
+    7  git status
+    8  ls
+    9  nano testing.py
+   10  ls
+   11  git status
+   12  git add testing.py
+   13  ls
+   14  git status
+   15  git rm --cached testing.py
+   16  git staus
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "testing files
+   21  git commit -m "testing files" 
+   22  git status
+   23  rm testing.py
+   24  git status
+   25  git restore testing.py
+   26  ls
+   27  git history
+   28  history
